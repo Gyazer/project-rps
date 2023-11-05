@@ -1,0 +1,11 @@
+* {
+    background-color: black;
+}
+
+#funny {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 35rem;
+}
